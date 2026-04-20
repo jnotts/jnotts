@@ -1,16 +1,16 @@
-## Hi there 👋
+# Jordan Nottage
 
-<!--
-**jnotts/jnotts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer. Building products and going deeper on applied AI**
+- **STAQ**: full stack gym training app for serious lifters with AI features (React Native). Demo below.
+- **RAG agent** for document ingestion and workflows
 
-Here are some ideas to get you started:
+**Sample work**
+- [redis-task-queue](https://github.com/jnotts/redis-task-queue) — distributed task queue in TypeScript. Lua atomic ops, TTL-based locking, crash recovery, exponential backoff retries.
+- [music-platform](https://github.com/jnotts/music-platform) — full-stack demo submission platform. Next.js, Supabase realtime, signed-URL audio streaming, background metadata extraction via edge functions.
+- [performance-dashboard](https://github.com/jnotts/performance-dashboard) — training analytics dashboard. Vue 3, Express, Chart.js, Gemini-generated insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[site](https://nottage.digital) · [linkedin](https://www.linkedin.com/in/jordan-nottage/)
+
+### STAQ Demo
+
+https://github.com/user-attachments/assets/c7189ced-4df9-490b-9512-1235bffb7860
